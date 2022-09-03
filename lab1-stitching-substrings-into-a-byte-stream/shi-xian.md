@@ -2,6 +2,8 @@
 
 ## 类及成员
 
+<figure><img src="../.gitbook/assets/ByteStream_func.png" alt=""><figcaption><p>ByteStream_Function</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/piece.png" alt=""><figcaption><p>piece</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/StreamReassembler.png" alt=""><figcaption><p>StreamAssembler</p></figcaption></figure>
