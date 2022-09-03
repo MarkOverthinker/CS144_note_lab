@@ -1,0 +1,7 @@
+# 实验内容
+
+实现一个StreamReassembler，用来接收字节流中的乱序的碎片，这些碎片包含了数据string以及index(表示该碎片首个字节在字节流中的索引)，StreamReassembler需要保证将这些乱序到达的碎片按正确顺序重新组织起来，存入lab0实现的ByteStream中。
+
+#### capacity
+
+用于限制整个StreamReassembler占用的内存，已assemble(已存入ByteStream中)和未assemble的字节数总和不能超过capacity，在容量过高时，要在未assemble的字节尾部开始向前遗弃字节（优先遗弃后面的，因为assemble是从前往后的，遗弃前面的则永远无法assemble），若传入的piece有与已assemble的部分重叠的部分，遗弃重叠部分。

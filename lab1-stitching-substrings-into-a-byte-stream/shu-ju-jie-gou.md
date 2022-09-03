@@ -1,0 +1,3 @@
+# 数据结构
+
+采用了双向链表，将未assemble的piece按index组织起来，在插入piece的时候注意去掉重叠的部分，保证piece之间不重叠且从前往后index为递增，在每次插入后若第一个piece的index等于当前ByteStream的下一个字节的index，则将这段piece中的字符串存入ByteStream。
