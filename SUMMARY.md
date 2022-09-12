@@ -12,3 +12,9 @@
 
 * [Translating between 64-bit indexes and 32-bit seqnos](lab-checkpoint-2-the-tcp-receiver/translating-between-64-bit-indexes-and-32-bit-seqnos.md)
 * [Implementing the TCP receiver](lab-checkpoint-2-the-tcp-receiver/implementing-the-tcp-receiver.md)
+
+## &#x20;Checkpoint 3: the TCP sender
+
+* [简介](checkpoint-3-the-tcp-sender/jian-jie.md)
+* [重发机制](checkpoint-3-the-tcp-sender/zhong-fa-ji-zhi.md)
+* [implement](checkpoint-3-the-tcp-sender/implement.md)
