@@ -19,3 +19,9 @@
 * [简介](checkpoint-3-the-tcp-sender/jian-jie.md)
 * [重发机制](checkpoint-3-the-tcp-sender/zhong-fa-ji-zhi.md)
 * [implement](checkpoint-3-the-tcp-sender/implement.md)
+
+## Lab Checkpoint 4: the summit (TCP in full)
+
+* [实验内容](lab-checkpoint-4-the-summit-tcp-in-full/shi-yan-nei-rong.md)
+* [segment\_received](lab-checkpoint-4-the-summit-tcp-in-full/segment\_received.md)
+* [tick](lab-checkpoint-4-the-summit-tcp-in-full/tick.md)
