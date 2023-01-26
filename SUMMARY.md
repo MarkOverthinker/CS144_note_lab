@@ -25,3 +25,7 @@
 * [实验内容](lab-checkpoint-4-the-summit-tcp-in-full/shi-yan-nei-rong.md)
 * [segment\_received](lab-checkpoint-4-the-summit-tcp-in-full/segment\_received.md)
 * [tick](lab-checkpoint-4-the-summit-tcp-in-full/tick.md)
+
+***
+
+* [整体大致总结](zheng-ti-da-zhi-zong-jie.md)
